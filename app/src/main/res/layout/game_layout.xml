@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   android:layout_width="fill_parent"
+   android:layout_height="fill_parent">
+
+   <com.esgames.abaddon.GameView
+      android:id="@+id/abaddon" 
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent" 
+      tileSize="16"
+      spriteHeight="24" />
+
+   <RelativeLayout 
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent">
+      <TextView 
+         android:id="@+id/text" 
+         android:text="@string/abaddon_text"
+         android:visibility="visible" 
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_centerInParent="true" 
+         android:gravity="center_horizontal"
+         android:textColor="#ff8888ff" 
+         android:background="#ff000000"
+         android:textSize="16sp" />
+   </RelativeLayout>
+
+</FrameLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Abaddon</string>
+    <string name="mode_ready">Press Up To Start</string>
+    <string name="mode_loading">Loading Map</string>
+    <string name="mode_pause">Paused\nPress Up To Resume</string>
+    <string name="mode_lose">You Lost</string>
+    <string name="mode_error">An Error Occurred</string>
+    <string name="abaddon_text"></string>
+
+</resources>
