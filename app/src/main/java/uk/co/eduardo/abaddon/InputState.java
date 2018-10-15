@@ -7,7 +7,7 @@ import android.view.MotionEvent.PointerCoords;
 /**
  * Manage the key states in the game
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public final class InputState
 {

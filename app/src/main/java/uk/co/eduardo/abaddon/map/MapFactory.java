@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * Reads/writes {@link MapDefinition}
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class MapFactory
 {

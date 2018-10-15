@@ -12,7 +12,7 @@ import uk.co.eduardo.abaddon.inventory.Inventory;
 /**
  * Defines a player character sprite.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class PC extends Sprite
 {

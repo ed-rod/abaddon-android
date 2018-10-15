@@ -12,7 +12,7 @@ import uk.co.eduardo.abaddon.util.ScreenSettings;
  * A Game window
  * 
  * A window has a frame
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class GameWindow implements Layer
 {

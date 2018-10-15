@@ -15,7 +15,7 @@ import uk.co.eduardo.abaddon.util.ScreenSettings;
 /**
  * A layer that displays a path.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class PathDisplay implements Layer
 {

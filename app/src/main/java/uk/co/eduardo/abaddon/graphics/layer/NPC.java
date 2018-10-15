@@ -14,7 +14,7 @@ import uk.co.eduardo.abaddon.util.ScreenSettings;
 /**
  * An NPC is a sprite that walks about in the game and can be interacted with
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class NPC extends Sprite
 {

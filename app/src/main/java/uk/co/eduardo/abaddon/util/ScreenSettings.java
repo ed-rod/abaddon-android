@@ -6,7 +6,7 @@ package uk.co.eduardo.abaddon.util;
  * For performance reasons we expose the fields so they can be accessed
  * directly.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public final class ScreenSettings
 {

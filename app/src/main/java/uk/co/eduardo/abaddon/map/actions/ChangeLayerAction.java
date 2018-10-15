@@ -6,7 +6,7 @@ import uk.co.eduardo.abaddon.util.Coordinate;
  * Changes the hero's layer position. Used to create the effect that the hero is moving above and 
  * below different layers.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class ChangeLayerAction extends MapAction
 {

@@ -17,7 +17,7 @@ import uk.co.eduardo.abaddon.util.ScreenSettings;
 /**
  * The main game view. This is a {@link SurfaceView}.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 class GameView extends SurfaceView implements SurfaceHolder.Callback 
 {

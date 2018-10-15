@@ -7,7 +7,7 @@ import android.content.res.Resources;
  * This holds onto a reference to the resources to make them global and
  * accessible from anywhere
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class Res
 {

@@ -5,7 +5,7 @@ import uk.co.eduardo.abaddon.util.Coordinate;
 /**
  * Certain tiles on the map have some actions
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public abstract class MapAction
 {

@@ -13,7 +13,7 @@ import uk.co.eduardo.abaddon.util.ScreenSettings;
  * The Inventory screen allows for selecting the equipped weapon, armor, shield and helmet.
  * It also allows to manage any other, non-equippable, items that are in the inventory.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class InventoryWindow extends GameWindow
 {

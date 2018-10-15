@@ -6,7 +6,7 @@ import java.util.HashMap;
 /**
  * Monster, monster monster.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 @SuppressWarnings( "nls" )
 public class Monster

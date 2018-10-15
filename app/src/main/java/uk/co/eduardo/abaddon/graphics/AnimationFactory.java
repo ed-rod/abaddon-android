@@ -13,7 +13,7 @@ import uk.co.eduardo.abaddon.util.ScreenSettings;
  * the sprite graphic has already been loaded and if so, returns the same
  * instance. If not, it will load it.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class AnimationFactory
 {

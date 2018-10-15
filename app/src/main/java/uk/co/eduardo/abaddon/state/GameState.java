@@ -3,7 +3,7 @@ package uk.co.eduardo.abaddon.state;
 /**
  * The possible states the game may be in.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public enum GameState
 {

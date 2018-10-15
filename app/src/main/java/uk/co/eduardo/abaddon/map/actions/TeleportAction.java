@@ -5,7 +5,7 @@ import uk.co.eduardo.abaddon.util.Coordinate;
 /**
  * Teleport the character to another tile position in the current or another map
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class TeleportAction extends MapAction
 {

@@ -10,7 +10,7 @@ import uk.co.eduardo.abaddon.util.Coordinate;
 /**
  * Reads/writes a {@link HeaderSection}
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class HeaderSectionProducer extends AbstractFileSectionProducer< HeaderSection >
 {

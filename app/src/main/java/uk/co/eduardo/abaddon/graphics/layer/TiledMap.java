@@ -16,7 +16,7 @@ import uk.co.eduardo.abaddon.util.ScreenSettings;
  * For performance reasons we expose the fields. It's not such a bad thing
  * as all the fields are final.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class TiledMap implements Layer
 {

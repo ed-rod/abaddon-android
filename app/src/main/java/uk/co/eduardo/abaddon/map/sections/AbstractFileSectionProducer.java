@@ -7,7 +7,7 @@ import java.io.IOException;
 /**
  * Abstract implementation that provides utility methods for reading from streams.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  * @param <T> the type of file section that is supported by this file section factory.
  */
 public abstract class AbstractFileSectionProducer< T extends FileSection > implements FileSectionProducer< T >

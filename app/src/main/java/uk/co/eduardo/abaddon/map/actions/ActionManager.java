@@ -3,7 +3,7 @@ package uk.co.eduardo.abaddon.map.actions;
 /**
  * Manages the action tiles within the map
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public final class ActionManager
 {

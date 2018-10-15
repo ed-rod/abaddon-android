@@ -24,7 +24,7 @@ import java.io.OutputStream;
  * _____________________________________________________________________________
  * </pre>
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class TileDescriptionReader
 {

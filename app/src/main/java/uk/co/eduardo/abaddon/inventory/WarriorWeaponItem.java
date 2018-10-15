@@ -7,7 +7,7 @@ import uk.co.eduardo.abaddon.character.CharacterClass;
 /**
  * A item used for attack that can only be wielded by warriors.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class WarriorWeaponItem extends WeaponItem
 {

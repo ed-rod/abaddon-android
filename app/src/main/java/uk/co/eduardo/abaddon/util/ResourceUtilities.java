@@ -10,7 +10,7 @@ import uk.co.eduardo.abaddon.R;
 /**
  * Utility methods for accessing resources by name.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public final class ResourceUtilities
 {

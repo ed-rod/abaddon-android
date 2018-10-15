@@ -4,7 +4,7 @@ package uk.co.eduardo.abaddon.map.sections;
 /**
  * Contains the 2D tile grid information from a map file
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class MapSection implements FileSection
 {

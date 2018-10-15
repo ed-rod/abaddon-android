@@ -3,7 +3,7 @@ package uk.co.eduardo.abaddon.util;
 /**
  * Controls the day-night cycle
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public final class DayNight
 {  

@@ -3,7 +3,7 @@ package uk.co.eduardo.abaddon.character;
 /**
  * Defines character classes available in the game.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public enum CharacterClass
 {

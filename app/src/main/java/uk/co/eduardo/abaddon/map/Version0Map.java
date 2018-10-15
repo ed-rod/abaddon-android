@@ -13,7 +13,7 @@ import uk.co.eduardo.abaddon.map.sections.NpcSectionProducer;
 /**
  * Support for version 0 map files.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class Version0Map implements MapVersion
 {

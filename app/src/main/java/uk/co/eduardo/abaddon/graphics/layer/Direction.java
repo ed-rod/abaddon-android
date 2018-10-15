@@ -5,7 +5,7 @@ import uk.co.eduardo.abaddon.util.Coordinate;
 /**
  * Frame offsets within an animation for different directions
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 @SuppressWarnings( "all" )
 public enum Direction

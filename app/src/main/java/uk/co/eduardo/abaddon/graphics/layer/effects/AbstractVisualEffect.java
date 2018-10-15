@@ -6,7 +6,7 @@ import android.graphics.Paint;
 /**
  * Abstract base class for a visual effect.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public abstract class AbstractVisualEffect implements VisualEffect
 {

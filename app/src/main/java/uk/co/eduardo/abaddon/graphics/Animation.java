@@ -11,7 +11,7 @@ import android.graphics.drawable.Drawable;
  * Each frame is a rectangular subsection of the image. The image must have a
  * width and height that is a multiple of the dimensions of each frame.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class Animation
 {

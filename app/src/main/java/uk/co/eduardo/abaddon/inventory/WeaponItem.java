@@ -10,7 +10,7 @@ import uk.co.eduardo.abaddon.character.CharacterClass;
 /**
  * A item used for attack.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class WeaponItem extends ClassRestrictedStrengthItem
 {

@@ -6,7 +6,7 @@ import uk.co.eduardo.abaddon.util.Coordinate;
 /**
  * Contains header information from a map file
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class HeaderSection implements FileSection
 {

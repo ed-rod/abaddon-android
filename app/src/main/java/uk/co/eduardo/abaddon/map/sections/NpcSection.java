@@ -5,7 +5,7 @@ import uk.co.eduardo.abaddon.graphics.layer.NPC;
 /**
  * Contains NPC information from a map file
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class NpcSection implements FileSection
 {

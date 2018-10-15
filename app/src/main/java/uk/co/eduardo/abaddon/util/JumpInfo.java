@@ -5,7 +5,7 @@ package uk.co.eduardo.abaddon.util;
  * and use the getNextPosition method to get the characters new location when
  * jumping
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public final class JumpInfo
 {

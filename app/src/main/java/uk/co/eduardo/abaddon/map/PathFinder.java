@@ -27,7 +27,7 @@ import uk.co.eduardo.abaddon.util.ScreenSettings;
  * Variation of the A* algorithm.
  * </p>
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class PathFinder
 {

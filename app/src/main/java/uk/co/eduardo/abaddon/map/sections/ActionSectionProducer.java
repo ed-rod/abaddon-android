@@ -12,7 +12,7 @@ import uk.co.eduardo.abaddon.util.Coordinate;
 /**
  * Reads/writes an {@link ActionSection}.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class ActionSectionProducer extends AbstractFileSectionProducer< ActionSection >
 {

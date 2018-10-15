@@ -10,7 +10,7 @@ import uk.co.eduardo.abaddon.character.CharacterClass;
 /**
  * A item that can be carried to offer protection.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class ShieldItem extends ClassRestrictedStrengthItem
 {

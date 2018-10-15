@@ -6,7 +6,7 @@ import android.graphics.Paint;
 /**
  * A layer of the game. Tiled maps, sprites and message windows are all layers
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public interface Layer
 {

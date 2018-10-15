@@ -9,7 +9,7 @@ import uk.co.eduardo.abaddon.util.ScreenSettings;
 /**
  * Creates tileset from a <code>Drawable</code> by breaking it up into chunks.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class Tileset
 {   

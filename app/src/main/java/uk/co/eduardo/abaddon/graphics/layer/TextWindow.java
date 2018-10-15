@@ -12,7 +12,7 @@ import uk.co.eduardo.abaddon.InputState;
 /**
  * Displays a window with text
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class TextWindow extends GameWindow
 {

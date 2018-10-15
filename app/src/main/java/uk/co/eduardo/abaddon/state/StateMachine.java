@@ -5,7 +5,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
 /**
  * State machine for the game.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class StateMachine
 {

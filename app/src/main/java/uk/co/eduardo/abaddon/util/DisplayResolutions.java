@@ -10,7 +10,7 @@ import android.util.DisplayMetrics;
 /**
  * Converts lengths between different display resolutions.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 // The field, DisplayMetrix.DENSITY_XXHIGH, is inlined and does not cause the map to break.
 @TargetApi( Build.VERSION_CODES.JELLY_BEAN )

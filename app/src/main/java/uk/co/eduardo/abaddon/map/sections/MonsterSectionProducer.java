@@ -12,7 +12,7 @@ import uk.co.eduardo.abaddon.monsters.MonsterZone;
 /**
  * Reads/writes a {@link MonsterSection}
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class MonsterSectionProducer extends AbstractFileSectionProducer< MonsterSection >
 {

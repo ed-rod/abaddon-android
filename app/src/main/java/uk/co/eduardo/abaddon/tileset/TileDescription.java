@@ -4,7 +4,7 @@ package uk.co.eduardo.abaddon.tileset;
  * Describes which tiles can be walked on, from which direction each tile can
  * be entered from end exitited to and whcih tiles are animated.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class TileDescription
 {

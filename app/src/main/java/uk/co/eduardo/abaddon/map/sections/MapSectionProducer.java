@@ -10,7 +10,7 @@ import uk.co.eduardo.abaddon.util.Coordinate;
 /**
  * Reads/writes a {@link MapSection}
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class MapSectionProducer extends AbstractFileSectionProducer< MapSection >
 {

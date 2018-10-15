@@ -7,7 +7,7 @@ import uk.co.eduardo.abaddon.util.ScreenSettings;
 /**
  * Manages all the different game layers
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public final class LayerManager
 {

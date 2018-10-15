@@ -7,7 +7,7 @@ import java.io.IOException;
 /**
  * Reads/writes a {@link MapDefinition}.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public interface MapVersion
 {

@@ -10,7 +10,7 @@ import uk.co.eduardo.abaddon.character.CharacterClass;
 /**
  * A item that can be equipped on the head to offer protection.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class HelmetItem extends ClassRestrictedStrengthItem
 {

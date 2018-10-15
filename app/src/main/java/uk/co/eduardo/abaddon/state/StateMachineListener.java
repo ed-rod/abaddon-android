@@ -3,7 +3,7 @@ package uk.co.eduardo.abaddon.state;
 /**
  * Notified when the game state changes.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public interface StateMachineListener
 {

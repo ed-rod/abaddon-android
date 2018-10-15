@@ -3,7 +3,7 @@ package uk.co.eduardo.abaddon.util;
 /**
  * Debug Constants
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class Debug
 {

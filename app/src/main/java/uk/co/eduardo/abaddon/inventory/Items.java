@@ -4,7 +4,7 @@ package uk.co.eduardo.abaddon.inventory;
 /**
  * Includes common items.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public final class Items
 {

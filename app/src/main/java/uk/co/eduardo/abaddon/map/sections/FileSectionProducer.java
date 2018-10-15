@@ -7,7 +7,7 @@ import java.io.IOException;
 /**
  * A handler for a file section with methods to read and write the section.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  * @param <T> the type of file section.
  */
 public interface FileSectionProducer< T extends FileSection >

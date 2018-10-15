@@ -5,7 +5,7 @@ import uk.co.eduardo.abaddon.graphics.layer.Layer;
 /**
  * A visual effect layer.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public interface VisualEffect extends Layer
 {

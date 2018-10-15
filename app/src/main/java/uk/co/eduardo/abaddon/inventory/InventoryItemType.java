@@ -3,7 +3,7 @@ package uk.co.eduardo.abaddon.inventory;
 /**
  * Defines the type of an inventory item.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public enum InventoryItemType
 {

@@ -3,7 +3,7 @@ package uk.co.eduardo.abaddon.util;
 /**
  * A Simple coordinate class
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class Coordinate
 {

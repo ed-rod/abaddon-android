@@ -9,7 +9,7 @@ import android.graphics.Rect;
  * If the PC's (tile) coordinates fall within the zone then the PC is subject to
  * being attacked by one of the monsters that inhabit the zone.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class MonsterZone
 {

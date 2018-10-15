@@ -11,7 +11,7 @@ import uk.co.eduardo.abaddon.graphics.layer.PC;
 /**
  * Defines an item that can only be used by restricted character classes.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class ClassRestrictedItem extends InventoryItem
 {

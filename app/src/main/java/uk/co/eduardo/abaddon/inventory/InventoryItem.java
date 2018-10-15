@@ -7,7 +7,7 @@ import uk.co.eduardo.abaddon.graphics.layer.PC;
 /**
  * An item that can appear in a character's inventory.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class InventoryItem implements Comparable< InventoryItem >
 {

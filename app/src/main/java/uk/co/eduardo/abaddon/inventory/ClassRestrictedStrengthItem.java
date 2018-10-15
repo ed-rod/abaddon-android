@@ -11,7 +11,7 @@ import uk.co.eduardo.abaddon.character.CharacterClass;
  * An abstract item that can only be equipped by certain classes. This item also has an
  * associated strength.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class ClassRestrictedStrengthItem extends ClassRestrictedItem implements StrengthItem
 {

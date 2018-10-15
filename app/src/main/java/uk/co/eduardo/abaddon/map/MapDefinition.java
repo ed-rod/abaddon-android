@@ -10,7 +10,7 @@ import uk.co.eduardo.abaddon.tileset.Tileset;
 /**
  * Holds an array of {@link Tileset} indices as a definition of a game map
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class MapDefinition
 {

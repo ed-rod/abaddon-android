@@ -8,7 +8,7 @@ import uk.co.eduardo.abaddon.inventory.Inventory;
 /**
  * Represents a character in the game.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public interface Character
 {

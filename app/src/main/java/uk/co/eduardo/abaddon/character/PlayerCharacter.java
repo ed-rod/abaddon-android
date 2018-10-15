@@ -9,7 +9,7 @@ import uk.co.eduardo.abaddon.inventory.Inventory;
 /**
  * Represents a player character.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class PlayerCharacter implements Character
 {

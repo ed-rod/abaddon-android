@@ -12,7 +12,7 @@ import uk.co.eduardo.abaddon.util.ResourceUtilities;
 /**
  * Reads/writes an {@link NpcSection}
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class NpcSectionProducer extends AbstractFileSectionProducer< NpcSection >
 {

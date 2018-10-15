@@ -9,7 +9,7 @@ import java.util.Set;
 /**
  * An inventory of items.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class Inventory
 {

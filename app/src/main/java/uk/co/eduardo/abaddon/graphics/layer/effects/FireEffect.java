@@ -13,7 +13,7 @@ import android.graphics.RectF;
 /**
  * A flame effect.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class FireEffect extends AbstractVisualEffect
 {

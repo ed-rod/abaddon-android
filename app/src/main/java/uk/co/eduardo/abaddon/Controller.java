@@ -55,7 +55,7 @@ import uk.co.eduardo.abaddon.util.ScreenSettings;
 /**
  * The main game controller. Most logic is handled here.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 @SuppressWarnings( "nls" )
 public class Controller extends Thread
@@ -158,7 +158,7 @@ public class Controller extends Thread
    /**
     * Handles map loading progress screen
     * 
-    * @author Eduardo Rodrigues
+    * @author Ed
     */
    private static class MapLoadHandler extends Handler
    {
@@ -194,7 +194,7 @@ public class Controller extends Thread
    /**
     * Loads a map in a background thread
     * 
-    * @author Eduardo Rodrigues
+    * @author Ed
     */
    private class MapLoadThread extends Thread
    {

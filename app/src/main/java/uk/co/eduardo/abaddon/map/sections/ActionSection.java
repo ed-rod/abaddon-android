@@ -5,7 +5,7 @@ import uk.co.eduardo.abaddon.map.actions.MapAction;
 /**
  * Contains action information from a map file.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class ActionSection implements FileSection
 {

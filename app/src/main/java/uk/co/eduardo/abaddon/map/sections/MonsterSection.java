@@ -5,7 +5,7 @@ import uk.co.eduardo.abaddon.monsters.MonsterZone;
 /**
  * Contains monster zone information from a map file.
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class MonsterSection implements FileSection
 {

@@ -17,7 +17,7 @@ import uk.co.eduardo.abaddon.util.ScreenSettings;
  * have an extra four directions (up-left, up-right, dowm-right and 
  * down-left).
  * 
- * @author Eduardo Rodrigues
+ * @author Ed
  */
 public class Sprite implements Layer
 {
